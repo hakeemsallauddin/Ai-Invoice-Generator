@@ -22,6 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-_MACOSX/
+**/.env
+__MACOSX/
 Steps to follow.pdf
-.env
+.DS_Store
